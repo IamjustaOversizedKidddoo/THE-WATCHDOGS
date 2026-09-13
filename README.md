@@ -9,11 +9,6 @@
 </span>
 </pre>
 
-
-<div align="center">
-
-<img src="./assets/the-watchdogs-red.svg" alt="THE WATCHDOGS" width="100%">
-
 # 🐺 THE WATCHDOGS
 
 ### A Multi-Agent Cybersecurity Operations Platform
