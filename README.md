@@ -9,8 +9,6 @@
 </span>
 </pre>
 
-# 🐺 THE WATCHDOGS
-
 ### A Multi-Agent Cybersecurity Operations Platform
 ### Visualized as a Living Digital Security Office
 
