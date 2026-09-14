@@ -15,7 +15,7 @@ The Watchdogs orchestrates the following independent open-source projects as age
 | **/daniel** | **Shannon** | Code review & static analysis (SAST) | <https://github.com/KeygraphHQ/shannon> | **GNU Affero General Public License v3.0 (AGPL-3.0)** | [`../daniel/`](../daniel) |
 | **/david** | **HackBot** | Automation, CVE lookups & payload suggestions | <https://github.com/morpheuslord/HackBot> | **No license file upstream** (Public repo, © Chiranjeevi G. / morpheuslord) | [`../david/`](../david) |
 | **/wrench** / **/gabriel** | **HexStrike AI** | Tool floor & 150+ cybersecurity tool MCP server | <https://github.com/0x4m4/hexstrike-ai> | **MIT License** (© 2026 Muhammad Osama) | [`../wrench/`](../wrench) |
-| **/maverick** | **Skills Library** | 818 structured offensive security skills | <https://github.com/anthropics/anthropic-quickstarts> | **Apache License 2.0 (Apache-2.0)** | [`../skills-library/`](../skills-library) |
+| **/maverick** | **Anthropic Cybersecurity Skills** | 818 structured offensive security skills | <https://github.com/mukul975/Anthropic-Cybersecurity-Skills> | **Apache License 2.0 (Apache-2.0)** | [`../skills-library/`](../skills-library) |
 
 See each project's own `LICENSE` file (preserved in its folder under this repository) for full license terms.
 

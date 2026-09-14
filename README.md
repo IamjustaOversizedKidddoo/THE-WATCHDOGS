@@ -41,7 +41,7 @@
 > - **/daniel** → [Shannon](https://github.com/KeygraphHQ/shannon) (GNU AGPL-3.0)
 > - **/david** → [HackBot](https://github.com/morpheuslord/HackBot) (© Chiranjeevi G. / morpheuslord)
 > - **/wrench** / **/gabriel** → [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) (MIT)
-> - **/maverick** → [Skills Library](https://github.com/anthropics/anthropic-quickstarts) (Apache-2.0)
+> - **/maverick** → [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) (Apache-2.0)
 >
 > All original upstream `.git` histories, authorship records, and `LICENSE` files are strictly preserved in each tool's directory. For full licensing details, links, and upstream asset credits, see [`THIRD_PARTY_NOTICES.md`](./THIRD_PARTY_NOTICES.md).
 
@@ -177,7 +177,7 @@ When authorization, scope, or policy information is uncertain: **STOP**. The sys
 | [`daniel/`](./daniel) | **/daniel** | Shannon | GNU AGPL-3.0 | SAST & code review desk (Git Submodule) |
 | [`david/`](./david) | **/david** | HackBot | Public Repo (© author) | Automation & CVE lookup desk (Git Submodule) |
 | [`wrench/`](./wrench) | **/wrench** | HexStrike AI | MIT License | 150+ tool MCP floor (Git Submodule) |
-| [`skills-library/`](./skills-library) | **/maverick** | Skills Library | Apache-2.0 | 818 practitioner skills (Git Submodule) |
+| [`skills-library/`](./skills-library) | **/maverick** | Anthropic Cybersecurity Skills | Apache-2.0 | 818 practitioner skills (Git Submodule) |
 | [`workLogs/`](./workLogs) | **Persistence** | — | — | Hive audit logs, blackboard, and session states |
 
 See [`THIRD_PARTY_NOTICES.md`](./THIRD_PARTY_NOTICES.md) for complete attribution and license terms.

@@ -31,7 +31,7 @@
 > - **/daniel** → [Shannon](https://github.com/KeygraphHQ/shannon) (AGPL-3.0)
 > - **/david** → [HackBot](https://github.com/morpheuslord/HackBot) (© Chiranjeevi G. / morpheuslord)
 > - **/wrench** / **/gabriel** → [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) (MIT)
-> - **/maverick** → [Skills Library](https://github.com/anthropics/anthropic-quickstarts) (Apache-2.0)
+> - **/maverick** → [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) (Apache-2.0)
 >
 > All original upstream `.git` histories, authorship records, and `LICENSE` files are strictly preserved in each tool's directory. For full licensing details, links, and upstream asset credits, see [`THIRD_PARTY_NOTICES.md`](./THIRD_PARTY_NOTICES.md).
 
