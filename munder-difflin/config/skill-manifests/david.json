@@ -1,0 +1,11 @@
+{
+  "desk": "/david",
+  "skills": [
+    "performing-cve-prioritization-with-kev-catalog",
+    "exploiting-vulnerabilities-with-metasploit-framework",
+    "performing-hash-cracking-with-hashcat",
+    "moving-laterally-with-netexec",
+    "exploiting-kerberoasting-with-impacket",
+    "exploiting-smb-vulnerabilities-with-metasploit"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "program": "authorized-lab",
+  "platform": "local",
+  "in_scope": [
+    "authorized.lab",
+    "*.authorized.lab",
+    "127.0.0.1",
+    "127.0.0.1:*",
+    "localhost",
+    "localhost:*"
+  ],
+  "excluded": [
+    "*.authorized.lab/restricted/*"
+  ],
+  "testing_restrictions": "Authorized local lab testing only",
+  "last_verified": "2026-09-13",
+  "verified_by": "human",
+  "candidates": [],
+  "live_tool_invocation_authorized": false
+}

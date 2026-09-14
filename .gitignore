@@ -1,0 +1,50 @@
+# Dependencies & virtual environments
+node_modules/
+**/node_modules/
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Build & bundle artifacts
+out/
+**/out/
+dist/
+**/dist/
+build/
+**/build/
+.vite/
+**/.vite/
+.turbo/
+**/.turbo/
+.next/
+**/.next/
+
+# Upstream git backups
+git_upstream_backup/
+**/git_upstream_backup/
+.git_upstream_backup/
+**/.git_upstream_backup/
+
+# Logs, databases & runtime state
+*.log
+workLogs/
+**/workLogs/
+.worktrees/
+**/coverage/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Secrets & local env
+.env
+.env.*
+!.env.example
+*.p8
+*.p12
+*.pem
+*.key

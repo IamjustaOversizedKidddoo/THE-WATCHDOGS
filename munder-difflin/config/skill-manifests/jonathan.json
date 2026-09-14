@@ -1,0 +1,15 @@
+{
+  "desk": "/jonathan",
+  "skills": [
+    "performing-subdomain-enumeration-with-subfinder",
+    "scanning-network-with-nmap-advanced",
+    "performing-dns-enumeration-and-zone-transfer",
+    "performing-osint-with-spiderfoot",
+    "conducting-external-reconnaissance-with-osint",
+    "performing-ip-reputation-analysis-with-shodan",
+    "performing-web-application-scanning-with-nikto",
+    "analyzing-certificate-transparency-for-phishing",
+    "analyzing-typosquatting-domains-with-dnstwist",
+    "building-threat-actor-profile-from-osint"
+  ]
+}

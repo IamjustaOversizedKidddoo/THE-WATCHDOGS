@@ -1,0 +1,17 @@
+{
+  "desk": "/chris",
+  "skills": [
+    "exploiting-sql-injection-vulnerabilities",
+    "exploiting-sql-injection-with-sqlmap",
+    "exploiting-server-side-request-forgery",
+    "performing-blind-ssrf-exploitation",
+    "exploiting-idor-vulnerabilities",
+    "exploiting-insecure-deserialization",
+    "exploiting-jwt-algorithm-confusion-attack",
+    "exploiting-template-injection-vulnerabilities",
+    "exploiting-prototype-pollution-in-javascript",
+    "performing-directory-traversal-testing",
+    "bypassing-authentication-with-forced-browsing",
+    "exploiting-race-condition-vulnerabilities"
+  ]
+}

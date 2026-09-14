@@ -1,0 +1,13 @@
+{
+  "desk": "/daniel",
+  "skills": [
+    "implementing-semgrep-for-custom-sast-rules",
+    "integrating-sast-into-github-actions-pipeline",
+    "conducting-api-security-testing",
+    "performing-api-security-testing-with-postman",
+    "performing-android-app-static-analysis-with-mobsf",
+    "auditing-terraform-infrastructure-for-security",
+    "auditing-mcp-servers-for-tool-poisoning",
+    "analyzing-sbom-for-supply-chain-vulnerabilities"
+  ]
+}
