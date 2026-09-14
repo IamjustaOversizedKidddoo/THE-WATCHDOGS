@@ -172,12 +172,12 @@ When authorization, scope, or policy information is uncertain: **STOP**. The sys
 | Directory | Component | Source Project | License | Role |
 | :--- | :--- | :--- | :--- | :--- |
 | [`munder-difflin/`](./munder-difflin) | **App & Orchestrator** | Munder Difflin | MIT License | Living office UI, PTY layer, router, approval queue |
-| [`jonathan/`](./jonathan) | **/jonathan** | HackerGPT | GNU GPL-3.0 | Continuous recon desk (Git Submodule) |
-| [`chris/`](./chris) | **/chris** | Strix | Apache-2.0 | Exploitation validation desk (Git Submodule) |
-| [`daniel/`](./daniel) | **/daniel** | Shannon | GNU AGPL-3.0 | SAST & code review desk (Git Submodule) |
-| [`david/`](./david) | **/david** | HackBot | Public Repo (© author) | Automation & CVE lookup desk (Git Submodule) |
-| [`wrench/`](./wrench) | **/wrench** | HexStrike AI | MIT License | 150+ tool MCP floor (Git Submodule) |
-| [`skills-library/`](./skills-library) | **/maverick** | Anthropic Cybersecurity Skills | Apache-2.0 | 818 practitioner skills (Git Submodule) |
+| [`jonathan/`](./jonathan) | **/jonathan** | HackerGPT | GNU GPL-3.0 | Continuous recon desk (Vendored) |
+| [`chris/`](./chris) | **/chris** | Strix | Apache-2.0 | Exploitation validation desk (Vendored) |
+| [`daniel/`](./daniel) | **/daniel** | Shannon | GNU AGPL-3.0 | SAST & code review desk (Vendored) |
+| [`david/`](./david) | **/david** | HackBot | Public Repo (© author) | Automation & CVE lookup desk (Vendored) |
+| [`wrench/`](./wrench) | **/wrench** | HexStrike AI | MIT License | 150+ tool MCP floor (Vendored) |
+| [`skills-library/`](./skills-library) | **/maverick** | Anthropic Cybersecurity Skills | Apache-2.0 | 818 practitioner skills (Vendored) |
 | [`workLogs/`](./workLogs) | **Persistence** | — | — | Hive audit logs, blackboard, and session states |
 
 See [`THIRD_PARTY_NOTICES.md`](./THIRD_PARTY_NOTICES.md) for complete attribution and license terms.
